@@ -209,8 +209,8 @@ The system automatically detects and switches between Arabic and English based o
 ## Support
 
 For technical support or questions:
-- Email: info@rsd-yemen.org
-- Documentation: Check inline code comments
+- Email: anasadelismail2023@gmail.com
+- phone: +96770300304
 
 ## License
 
